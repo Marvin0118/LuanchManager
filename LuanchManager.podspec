@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '7.0'
 
   s.user_target_xcconfig = {
-    'GCC_PREPROCESSOR_DEFINITIONS' => 'MODULE_WEB_SERVICE'
+    'GCC_PREPROCESSOR_DEFINITIONS' => 'MODULE_LUANCH_MANAGER'
   }
 
   s.source_files = 'LuanchManager/Classes/**/*'
