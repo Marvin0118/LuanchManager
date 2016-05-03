@@ -1,0 +1,14 @@
+PODS:
+  - LuanchManager (0.1.0)
+
+DEPENDENCIES:
+  - LuanchManager (from `../`)
+
+EXTERNAL SOURCES:
+  LuanchManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LuanchManager: 7241d7beb3673665267c43b11a08eee978e6e587
+
+COCOAPODS: 0.39.0
