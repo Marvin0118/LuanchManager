@@ -1,0 +1,8 @@
+use_frameworks!
+
+
+target 'LuanchManager_Tests', :exclusive => true do
+  pod 'LuanchManager', :path => '../'
+
+  
+end
